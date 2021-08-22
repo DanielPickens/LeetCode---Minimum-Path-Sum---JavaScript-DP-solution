@@ -19,3 +19,9 @@ var minPathSum = function(grid) {
         }
         return grid[rows -1][columns -1];
     }
+
+
+
+//Runtime: 60 ms, faster than 99.74% of JavaScript online submissions for Minimum Path Sum.
+//Memory Usage: 40.2 MB, less than 96.75% of JavaScript online submissions for Minimum Path Sum.
+
